@@ -1,0 +1,7 @@
+venv/
+geckodriver.exe
+geckodriver.log
+cache.json
+fullfill_db/movie_list
+fullfill_db/pages_kp
+fullfill_db/trailers
